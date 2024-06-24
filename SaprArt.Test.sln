@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5BA4B1F7-AF80-44BE-B795-5806382A70A2}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		README.md = README.md
+		test_case.jpg = test_case.jpg
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaprArt.Test.Core.Tests", "SaprArt.Test.Core.Tests\SaprArt.Test.Core.Tests.csproj", "{60CFF068-5435-4F12-89BB-64FB200119E9}"
