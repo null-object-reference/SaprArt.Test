@@ -5,3 +5,5 @@
 -p 0 
 --ec "Yellow" 
 -f "%USERPROFILE%\Desktop\saprtarttest-output.txt"`
+
+[Test case](../test_case.jpg)
